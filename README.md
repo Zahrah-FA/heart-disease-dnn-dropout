@@ -65,6 +65,11 @@ dan evaluasi dilakukan pada notebook berikut:
 
 Notebook dibuat dan dijalankan menggunakan **Google Colab**.
 
+## Cara Menjalankan Project
+1. Clone repository
+2. Buka notebook `notebook/heart_disease_dnn_dropout.ipynb`
+3. Jalankan seluruh cell secara berurutan
+
 ---
 
 ## Author
