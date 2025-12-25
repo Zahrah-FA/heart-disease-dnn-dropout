@@ -46,10 +46,10 @@ Dataset yang digunakan adalah **Heart Disease Dataset (UCI / Kaggle)**.
 
 ## Struktur Repository
 heart-disease-dnn-dropout/
-   -dataset/raw/heart_disease_raw.csv
-   -dataset/clean/heart_disease_clean.csv
-   -notebook/heart_disease_dnn_dropout.ipynb
-   -README.md
+   - dataset/raw/heart_disease_raw.csv
+   - dataset/clean/heart_disease_clean.csv
+   - notebook/heart_disease_dnn_dropout.ipynb
+   - README.md
 
 ---
 
